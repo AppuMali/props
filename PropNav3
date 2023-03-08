@@ -1,0 +1,11 @@
+import React from 'react'
+
+const PropNav3 = (props) => {
+  return (
+    <>
+    <h1>{props.string}</h1>
+     </>
+  )
+}
+
+export default PropNav3
